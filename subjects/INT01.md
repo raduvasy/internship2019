@@ -3,7 +3,7 @@
     
     | From                 | To           | Duration (minutes) |
     |----------------------|--------------|--------------------|
-    | User starting point  | ATM 1        | 5                  |
+    | User starjting point  | ATM 1        | 5                  |
     | User starting point  | ATM 2        | 60                 |
     | User starting point  | ATM 3        | 30                 |
     | User starting point  | ATM 4        | 45                 |
